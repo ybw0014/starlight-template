@@ -12,7 +12,7 @@
 	"dependencies": {
 		"@astrojs/check": "^0.3.1",
 		"@astrojs/cloudflare": "^8.0.0",
-		"@astrojs/starlight": "^0.15.0",
+		"@astrojs/starlight": "^0.21.0",
 		"@astrojs/starlight-tailwind": "^2.0.1",
 		"@astrojs/tailwind": "^5.0.3",
 		"@fontsource/noto-sans": "^5.0.18",
